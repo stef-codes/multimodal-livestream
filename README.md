@@ -55,3 +55,5 @@ Then run the bake-off app with:
 ```
 shiny run app_bakeoff.py --port 0 --launch-browser
 ```
+
+Here's the link: https://jcheng.shinyapps.io/multimodal/
